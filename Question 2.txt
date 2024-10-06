@@ -1,0 +1,1 @@
+It was necessary to include the "IsPoliticallyExposed" property in the "Trade" class and subsequently verify it in the Classify methods.
